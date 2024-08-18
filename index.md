@@ -36,3 +36,6 @@ Embroil
 
 Ad hoc
 > Ad hoc is a word that originally comes from Latin and means “for this” or "for this situation." In current American English it is used to describe something that has been formed or used for a special and immediate purpose, without previous planning. Ad hoc can be used as an adjective or an adverb.
+
+Dire
+> The situation is quite dire.
