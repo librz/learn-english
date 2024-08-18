@@ -33,3 +33,6 @@ Miscellaneous
 Embroil
 
 > When ESLint was initially released in 2013, the JavaScript ecosystem was embroiled in a debate about whether or not source code formatting should be part of a linter.
+
+Ad hoc
+> Ad hoc is a word that originally comes from Latin and means “for this” or "for this situation." In current American English it is used to describe something that has been formed or used for a special and immediate purpose, without previous planning. Ad hoc can be used as an adjective or an adverb.
