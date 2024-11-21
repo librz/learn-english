@@ -39,3 +39,6 @@ Ad hoc
 
 Dire
 > The situation is quite dire.
+
+Tentative
+> Both parties have reached a tentative ceasefire agreement
