@@ -23,3 +23,6 @@ Dire: The situation is quite dire.
 Tentative: Both parties have reached a tentative ceasefire agreement
 
 Cadence: To meet its cadence of launch every other week, SpaceX must build at least two of these each month.
+
+Holistic: A holistic approach to business management considers all aspects of operations, not just profits. 
+
