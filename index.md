@@ -28,4 +28,6 @@ Holistic: A holistic approach to business management considers all aspects of op
 
 Hyena: an African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh
 
+Liaison: we are hoping to establish better customer liaison
+
 
