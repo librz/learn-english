@@ -24,5 +24,8 @@ Tentative: Both parties have reached a tentative ceasefire agreement
 
 Cadence: To meet its cadence of launch every other week, SpaceX must build at least two of these each month.
 
-Holistic: A holistic approach to business management considers all aspects of operations, not just profits. 
+Holistic: A holistic approach to business management considers all aspects of operations, not just profits.
+
+Hyena: an African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh
+
 
