@@ -26,8 +26,10 @@ Cadence: To meet its cadence of launch every other week, SpaceX must build at le
 
 Holistic: A holistic approach to business management considers all aspects of operations, not just profits.
 
-Hyena: an African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh
+Hyena: An African wild animal like a dog that hunts in groups or eats the meat of animals that are already dead and makes a sound like a human laugh
 
-Liaison: we are hoping to establish better customer liaison
+Liaison: We are hoping to establish better customer liaison
+
+Impersonate: The attacker successfully impersonated the server
 
 
