@@ -4,7 +4,7 @@ Transient: The hotel mainly serves transient guests.
 
 Detrimental: Losing focus can be detrimental to your team.
 
-Orthogonal: In software design, two components are otthogonal if a change in one does NOT affect the other.
+Orthogonal: In software design, two components are orthogonal if a change in one does NOT affect the other.
 
 Indirection: Over abstration can cause layers of indirection which makes the code hard to read, understand & debug.
 
@@ -31,5 +31,7 @@ Hyena: An African wild animal like a dog that hunts in groups or eats the meat o
 Liaison: We are hoping to establish better customer liaison
 
 Impersonate: The attacker successfully impersonated the server
+
+Squabble: Don't embroil me in your squabbles.
 
 
