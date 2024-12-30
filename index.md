@@ -34,4 +34,4 @@ Impersonate: The attacker successfully impersonated the server
 
 Squabble: Don't embroil me in your squabbles.
 
-
+Supersede: In CSS, inline-block is largely superseded by modern layout techniques, particularly flexbox.
