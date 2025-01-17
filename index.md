@@ -35,3 +35,5 @@ Impersonate: The attacker successfully impersonated the server
 Squabble: Don't embroil me in your squabbles.
 
 Supersede: In CSS, inline-block is largely superseded by modern layout techniques, particularly flexbox.
+
+Phantom: Traditional package managers such as `npm/yarn` have phantom dependencies issue since they both use flat structure that stores all dependencies(including nested deps) in a single, unified list.
