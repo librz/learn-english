@@ -39,3 +39,5 @@ Supersede: In CSS, inline-block is largely superseded by modern layout technique
 Phantom: Traditional package managers such as `npm/yarn` have phantom dependencies issue since they both use flat structure that stores all dependencies(including nested deps) in a single, unified list.
 
 Revamp: to make like new
+
+Doppelganer: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their doppelgänger so the crowd think they are getting the real thing.
