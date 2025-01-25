@@ -41,3 +41,5 @@ Phantom: Traditional package managers such as `npm/yarn` have phantom dependenci
 Revamp: to make like new
 
 Doppelganer: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their doppelgänger so the crowd think they are getting the real thing.
+
+Cyclic: Interaction is a cyclic process in which two actors alternately listen, think and speak.
