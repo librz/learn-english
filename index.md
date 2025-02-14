@@ -48,4 +48,7 @@ Playwright: The word "robot" was coined in 1920 by Czech playwright Karel Capek.
 
 Ravage: The area has been ravaged by floods.
 
-Comeuppance: She'll get here comeuppance.
+Comeuppance: She'll get her comeuppance.
+
+Coalesce: To help coalesce the community, they established an office.
+
