@@ -52,3 +52,8 @@ Comeuppance: She'll get her comeuppance.
 
 Coalesce: To help coalesce the community, they established an office.
 
+Obstruct: They have fears that the regime would the obstruct distribution of food.
+
+Coercion: Our problem cannot be solved by any form of coercion but only by agreement.
+
+
