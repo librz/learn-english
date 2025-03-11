@@ -17,10 +17,10 @@ A sewer system is a network of pipes(usually underground), pumps, and other stru
 
 ### Vocabulary
 
-Obstruct: block for passage/action/operation.
-Tap: to strike lightly especailly with a slight sound (verb); watertap(noun);
-Gummy: sticky. covered with or consisting of gum (think of it like adjective form of gum)
-Chip: a small thin, flat piece
+- Obstruct: block for passage/action/operation.
+- Tap: to strike lightly especailly with a slight sound (verb); watertap(noun);
+- Gummy: sticky. covered with or consisting of gum (think of it like adjective form of gum)
+- Chip: a small thin, flat piece
 
 ### Common PACP codes
 
