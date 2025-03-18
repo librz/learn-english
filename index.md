@@ -50,6 +50,8 @@ Ravage: The area has been ravaged by floods.
 
 Comeuppance: She'll get her comeuppance.
 
+Spatial: relating to or occupying space
+
 Coalesce: To help coalesce the community, they established an office.
 
 Coercion: Our problem cannot be solved by any form of coercion but only by agreement.
