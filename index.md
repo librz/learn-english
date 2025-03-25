@@ -59,3 +59,8 @@ Coalesce: To help coalesce the community, they established an office.
 Coercion: Our problem cannot be solved by any form of coercion but only by agreement.
 
 Stark: In stark comparison, ...
+
+Superfluous: exceeding what is sufficient or necessary
+
+Prune: to remove as superfluous
+
